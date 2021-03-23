@@ -25,6 +25,7 @@
 
 ### [4. World Earthquakes ](http://example.com/)
 <!img src="images/eathquakes.jpg?raw=true"/>
+---
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/WorldEarthquakes2000-2020/EarthquakesaroundtheWorld">View Project in Tableau</a> 
 
 ### Category Name 2
