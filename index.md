@@ -2,12 +2,13 @@
 
 ---
 
-### Projects
+## Projects
 
-## [City of Melbourne_Pedestrian and Street Furniture](/sample_page)
+### [1. City of Melbourne_Pedestrian and Street Furniture](/sample_page)
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourne-PedesterianandStreetFurniture/PedestrianSensoracrossMelbourne">View Project in Tableau</a> 
-<!img src ="images/melbourne_city_hertiage.jpg"/>
+
+<!img src ="images/melbourne_city_hertiage.jpg">
 
 [Road Accidents Victoria](/pdf/sample_presentation.pdf)
 <!img src="images/accidents.jpg?raw=true"/>
