@@ -5,7 +5,7 @@
 ### Projects
 
 [City of Melbourne_Pedestrian and Street Furniture](/sample_page)
-<img src="images/melbourne_city_hertiage.jpg"/>
+<![Image](src)="images/melbourne_city_hertiage.jpg"/>
 
 [Road Accidents Victoria](/pdf/sample_presentation.pdf)
 <img src="images/accidents.jpg"/>
