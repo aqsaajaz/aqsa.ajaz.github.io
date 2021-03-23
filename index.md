@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[City of Melbourne_Pedestrian and Street Furniture](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
