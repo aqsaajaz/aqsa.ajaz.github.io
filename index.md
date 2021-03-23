@@ -26,7 +26,7 @@
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/MiddleeastClimateChange-1901-2016/PopulationofMiddleEast" target="_blank" rel="noopenernoreferrer">View Project in Tableau</a> 
 
-<img src="images/middle east.png">
+<img src="images/middle east.jpg">
 
 
 ### [4. World Earthquakes ](http://example.com/)
