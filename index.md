@@ -6,13 +6,15 @@
 
 ### [1. City of Melbourne_Pedestrian and Street Furniture](/sample_page)
 
-<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourne-PedesterianandStreetFurniture/PedestrianSensoracrossMelbourne">View Project in Tableau</a> 
+<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourneStreetfurniturePedestrianTraffic/pedestriansensor_info">View Project in Tableau</a> 
+
+<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/Interactivedashboard_CityofMelbournePedestrianandStreetAsset/ConditionofStreetFurnitureacrossCity">View Project Intereactive Dashboard in Tableau</a> 
 
 <img src ="images/melbourne_city_hertiage.jpg">
 
 ### [2. Road Accidents Victoria](/pdf/sample_presentation.pdf)
 
-<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/RoadAccidentVictoria/AccidentsinVictoria">View Project in Tableau</a> 
+<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/RoadAccidentVictoria/RoadAccidentVictoria">View Project in Tableau</a> 
 
 <img src="images/accidents.jpg?raw=true"/>
 
