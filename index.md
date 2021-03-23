@@ -10,7 +10,7 @@
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/Interactivedashboard_CityofMelbournePedestrianandStreetAsset/ConditionofStreetFurnitureacrossCity">View Project Intereactive Dashboard in Tableau</a> 
 
-<img src ="images/melbourne-city-hertiage.jpg">
+<img src ="images/melbourne-city-heritage.jpg">
 
 ### [2. Road Accidents Victoria](/pdf/sample_presentation.pdf)
 
