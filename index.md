@@ -18,7 +18,7 @@
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/RoadAccidentVictoria/RoadAccidentVictoria" target="_blank" rel="noopenernoreferrer">View Project in Tableau</a> 
 
-<a href="https://github.com/aqsaajaz/Road Accidents Victoria.git" target="_blank" rel="noopenernoreferrer">View Dataset and source code</a>
+<a href="https://github.com/aqsaajaz/Road-Accidents-Victoria" target="_blank" rel="noopenernoreferrer">View Dataset and source code</a>
 
 <img src="images/road accidents.jpg">
 
