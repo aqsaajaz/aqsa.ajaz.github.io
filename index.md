@@ -5,17 +5,16 @@
 ### Projects
 
 [City of Melbourne_Pedestrian and Street Furniture](/sample_page)
-<img src="images/melbourne_city_hertiage.jpg?raw=true"/>
----
+<img src="images/melbourne_city_hertiage.jpg"/>
+
 [Road Accidents Victoria](/pdf/sample_presentation.pdf)
-<img src="images/accidents.jpg?raw=true"/>
----
+<img src="images/accidents.jpg"/>
+
 [Climate Change-Middle East](http://example.com/)
 <img src="images/climate_change.jpg"/>
----
+
 [World Earthquakes ](http://example.com/)
 <img src="images/eathquakes.jpg"/>
----
 
 ### Category Name 2
 
