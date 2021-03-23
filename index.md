@@ -12,7 +12,7 @@
 
 <a href="https://github.com/aqsaajaz/City-of-Melbourne.git" target="_blank" rel="noopenernoreferrer">View Dataset and source code</a>
 
-<img src ="images/melbourne-city-heritage.jpg">
+<img src ="images/city of melb.jpg">
 
 ### [2. Road Accidents Victoria](/pdf/sample_presentation.pdf)
 
@@ -20,13 +20,13 @@
 
 <a href="https://github.com/aqsaajaz/Road Accidents Victoria.git" target="_blank" rel="noopenernoreferrer">View Dataset and source code</a>" target="_blank" 
 
-<img src="images/accidents_vic.jpg">
+<img src="images/road accidents.jpg">
 
 ### [3. Climate Change-Middle East](http://example.com/)
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/MiddleeastClimateChange-1901-2016/PopulationofMiddleEast" target="_blank" rel="noopenernoreferrer">View Project in Tableau</a> 
 
-<img src="images/climate change.jpg">
+<img src="images/middle east.jpg">
 
 
 ### [4. World Earthquakes ](http://example.com/)
