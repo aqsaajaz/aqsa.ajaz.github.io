@@ -26,12 +26,16 @@
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/MiddleeastClimateChange-1901-2016/PopulationofMiddleEast" target="_blank" rel="noopenernoreferrer">View Project in Tableau</a> 
 
+<a href="https://github.com/aqsaajaz/Middle-East-Climate-Change" target="_blank" rel="noopenernoreferrer">View Dataset and source code</a>
+
 <img src="images/middle east.png">
 
 
 ### [4. World Earthquakes ](http://example.com/)
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/WorldEarthquakes2000-2020/EarthquakesaroundtheWorld" target="_blank" rel="noopenernoreferrer">View Project in Tableau</a> 
+
+<a href="https://github.com/aqsaajaz/World-Earthquakes" target="_blank" rel="noopenernoreferrer">View Dataset and source code</a>
 
 <img src="images/earthquakes.jpg">
 
