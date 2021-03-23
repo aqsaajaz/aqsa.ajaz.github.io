@@ -5,16 +5,18 @@
 ### Category Name 1 
 
 [City of Melbourne_Pedestrian and Street Furniture](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/melbourne_city_hertiage.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Road Accidents Victoria](/pdf/sample_presentation.pdf)
+<img src="images/accidents.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Climate Change-Middle East](http://example.com/)
+<img src="images/climate_change.jpg"/>
 
+[World Earthquakes ](http://example.com/)
+<img src="images/eathquakes.jpg"/>
 ---
 
 ### Category Name 2
