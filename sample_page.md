@@ -1,8 +1,13 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The city of Melbourne is a local government area in Victoria. The municipality of Melbourne includes metropolitan Melbourne’s innermost suburbs, including the CBD area. The municipality is around 37 km² and shares its borders with seven other councils. The area has a population of 169,961 as of 2018.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+
+### 1. Problem Statement
+The city of Melbourne is responsible for maintenance of various objects and pieces of equipment installed on streets and roads for various purposes, such as
+barbeques, bicycles rails, bin corrals, drinking fountains etc.The city wants to evaluate the condition of street furniture assets and suggest potential site for upgrades.
+
+### 2. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,7 +17,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 3. Assess assumptions on which statistical inference will be based
 
 ```javascript
 if (isAwesome){
@@ -20,11 +25,11 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 4. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 5. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
