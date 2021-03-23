@@ -8,25 +8,26 @@
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourne-PedesterianandStreetFurniture/PedestrianSensoracrossMelbourne">View Project in Tableau</a> 
 
-<!img src ="images/melbourne_city_hertiage.jpg">
+<img src ="images/melbourne_city_hertiage.jpg">
 
 ### [2. Road Accidents Victoria](/pdf/sample_presentation.pdf)
----
-<!img src="images/accidents.jpg?raw=true"/>
----
+
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/RoadAccidentVictoria/AccidentsinVictoria">View Project in Tableau</a> 
 
+<img src="images/accidents.jpg?raw=true"/>
 
 ### [3. Climate Change-Middle East](http://example.com/)
---
-<!img src="images/climate_change.jpg?raw=true"/>
----
+
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/MiddleeastClimateChange-1901-2016/PopulationofMiddleEast">View Project in Tableau</a> 
 
+<img src="images/climate_change.jpg?raw=true"/>
+
+
 ### [4. World Earthquakes ](http://example.com/)
-<!img src="images/eathquakes.jpg?raw=true"/>
----
+
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/WorldEarthquakes2000-2020/EarthquakesaroundtheWorld">View Project in Tableau</a> 
+
+<img src="images/eathquakes.jpg?raw=true"/>
 
 ### Category Name 2
 
