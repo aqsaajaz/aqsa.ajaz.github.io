@@ -6,7 +6,7 @@
 
 ### [1. City of Melbourne_Pedestrian and Street Furniture](/sample_page)
 
-<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourneStreetfurniturePedestrianTraffic/pedestriansensor_info">View Project in Tableau</a> 
+<a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourneStreetfurniturePedestrianTraffic/pedestriansensor_info" target="_blank" rel="noopenernoreferrer">View Project in Tableau</a> 
 
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/Interactivedashboard_CityofMelbournePedestrianandStreetAsset/ConditionofStreetFurnitureacrossCity">View Project Intereactive Dashboard in Tableau</a> 
 
