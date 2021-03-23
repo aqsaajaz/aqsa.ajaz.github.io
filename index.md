@@ -5,17 +5,18 @@
 ### Projects
 
 [City of Melbourne_Pedestrian and Street Furniture](/sample_page)
+
 <a href="https://public.tableau.com/profile/aqsa7618#!/vizhome/CityofMelbourne-PedesterianandStreetFurniture/PedestrianSensoracrossMelbourne">View Project in Tableau</a> 
-<![Image](src)="images/melbourne_city_hertiage.jpg"/>
+<!img src ="images/melbourne_city_hertiage.jpg?raw=true"/>
 
 [Road Accidents Victoria](/pdf/sample_presentation.pdf)
-<img src="images/accidents.jpg"/>
+<!img src="images/accidents.jpg?raw=true"/>
 
 [Climate Change-Middle East](http://example.com/)
-<img src="images/climate_change.jpg"/>
+<!img src="images/climate_change.jpg?raw=true"/>
 
 [World Earthquakes ](http://example.com/)
-<img src="images/eathquakes.jpg"/>
+<!img src="images/eathquakes.jpg?raw=true"/>
 
 ### Category Name 2
 
